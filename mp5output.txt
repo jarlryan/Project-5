@@ -1,0 +1,95 @@
+Keyword Is: HAPPINESS
+
+0 1 2 3 4 
+---------------------
+0 | H | A | P | I | N 
+---------------------
+1 | E | S | B | C | D 
+---------------------
+2 | F | G | J | K | L 
+---------------------
+3 | M | O | Q | R | T 
+---------------------
+4 | U | V | W | X | Y 
+---------------------
+**************************************************************************************
+EVDEUOA XC GCERVLEWQ, FESS BC EUV OCWWAOX XLC HNUVRAV VCWWERS
+Decrypts To: 
+advance to boardwalk, pass go and collect two hundred dollars
+**************************************************************************************
+hello there
+Encrypts To: 
+HAWWC XHARA
+**************************************************************************************
+HAWWC XHARA
+Decrypts To: 
+hello there
+**************************************************************************************
+attack at dawn
+Encrypts To: 
+EXXEOQ EX VELU
+**************************************************************************************
+IAAX IA NUVAR HEIIARSIMXH GRMVBA
+Decrypts To: 
+meet me under hammersmith bridge
+**************************************************************************************
+the meeting is in san francisco
+Encrypts To: 
+XHA IAAXMUB MS MU SEU PREUOMSOC
+**************************************************************************************
+XHMS MUPCRIEXMCU MS AUORYFXAV NSMUB XHA QAYLCRV HEFFMUASS
+Decrypts To: 
+this information is encrypted using the keyword happiness
+**************************************************************************************
+XHA EUSLAR XC XHA PMRSX KNASXMCU CU XHA PMUEW IEY GA XRNA CR MX IEY GA PEWSA
+Decrypts To: 
+the answer to the first question on the final may be true or it may be false
+**************************************************************************************
+the answer to the first question on the final may be true or it may be false
+Encrypts To: 
+XHA EUSLAR XC XHA PMRSX KNASXMCU CU XHA PMUEW IEY GA XRNA CR MX IEY GA PEWSA
+**************************************************************************************
+OCUBREXNWEXMCUS YCN IEVA MX XHRCNBH XHMS IEOHMUA FRCGWAI
+Decrypts To: 
+congratulations you made it through this machine problem
+**************************************************************************************
+advance to boardwalk, pass go and collect two hundred dollars
+Encrypts To: 
+EVDEUOA XC GCERVLEWQ, FESS BC EUV OCWWAOX XLC HNUVRAV VCWWERS
+**************************************************************************************
+make my day
+Encrypts To: 
+IEQA IY VEY
+**************************************************************************************
+zorro is back (in town)
+Encrypts To: 
+ZCRRC MS GEOQ (MU XCLU)
+**************************************************************************************
+you ain't nothing but a hound dog
+Encrypts To: 
+YCN EMU'X UCXHMUB GNX E HCNUV VCB
+**************************************************************************************
+one day a computer will weigh less than a ton --- popular mechanics 1948
+Encrypts To: 
+CUA VEY E OCIFNXAR LMWW LAMBH WASS XHEU E XCU --- FCFNWER IAOHEUMOS 1948
+**************************************************************************************
+no computer will ever need more than 640k of memory -- bill gates in the mid eighties
+Encrypts To: 
+UC OCIFNXAR LMWW ADAR UAAV ICRA XHEU 640Q CP IAICRY -- GMWW BEXAS MU XHA IMV AMBHXMAS
+**************************************************************************************
+YCN EMUX UCXHMUB GNX E HCNUV VCB
+Decrypts To: 
+you aint nothing but a hound dog
+**************************************************************************************
+CUA VEY E OCIFNXAR LMWW LAMBH WASS XHEU E XCU --- FCFNWER IAOHEUMOS 1948
+Decrypts To: 
+one day a computer will weigh less than a ton --- popular mechanics 1948
+**************************************************************************************
+UC OCIFNXAR LMWW ADAR UAAV ICRA XHEU 640Q CP IAICRY -- GMWW BEXAS MU XHA IMV AMB HXMAS
+Decrypts To: 
+no computer will ever need more than 640k of memory -- bill gates in the mid eig hties
+**************************************************************************************
+the attack will start in $"population" minutes
+Encrypts To: 
+XHA EXXEOQ LMWW SXERX MU $"FCFNWEXMCU" IMUNXAS
+**************************************************************************************
